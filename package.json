@@ -1,0 +1,24 @@
+{
+  "name": "ymap-parser",
+  "version": "1.0.0",
+  "description": "Parse YMAP(XML) files data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinipux322/ymap-parser.git"
+  },
+  "author": "Vinipux322",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Vinipux322/ymap-parser/issues"
+  },
+  "homepage": "https://github.com/Vinipux322/ymap-parser#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "xml2js": "^0.4.23"
+  }
+}
